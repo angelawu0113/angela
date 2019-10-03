@@ -1,0 +1,7 @@
+def modulus(n):
+    if type(n)==type(5):    
+        return n % 2
+    else:
+        return -1
+        
+     
