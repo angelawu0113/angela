@@ -1,0 +1,27 @@
+class Solution:
+    def arraysIntersection(self, arr1: List[int], arr2: List[int], arr3: List[int]) -> List[int]:
+        #設一個空集合
+        res=[] 
+        #如果arr1、arr2、arr3的長度小於1或大於100就回傳0
+        if(1>=len(arr1) and len(arr2) and len(arr3)>=1000): 
+            return [0]
+        else:  
+            for i in arr1:
+                if (i in arr2):
+                    if (i in arr3):     
+                      #在res新增i
+                        res.append(i)
+                        
+        return res
+        
+
+       
+        
+        
+        
+        
+        
+        
+        
+    
+        
