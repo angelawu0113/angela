@@ -2,10 +2,10 @@
 
 ## 目錄
 * [week1](https://github.com/angelawu0113/angela/tree/master/week1)
-* [week2]()
-* [week3]()
-* [week4]()
-* 
+* [week2](https://github.com/angelawu0113/angela/tree/master/week2)
+* [week3](https://github.com/angelawu0113/angela/tree/master/week3)
+* [week4](https://github.com/angelawu0113/angela/tree/master/week4)
+* [作業](https://github.com/angelawu0113/angela/tree/master/%E4%BD%9C%E6%A5%AD)
 
 ## 序章
 >** **
