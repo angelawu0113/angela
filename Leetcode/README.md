@@ -1,6 +1,7 @@
 # 學習筆記
 ### 題目：709 To Lower Case <br>
 目的：將所有輸入的字串都轉為英文小寫輸出<br>
+使用 str.lower() 函式來替換
 str.upper()          #把所有字符中的小寫字母轉換成大寫字母<br>
 str.lower()          #把所有字符中的大寫字母轉換成小寫字母<br>
 str.capitalize()     #把第一個字母轉換為大寫字母，其餘小寫<br>
@@ -15,6 +16,9 @@ list.count(obj)    #計算obj在list裡的出現次數
 ### 題目：189 Rotate Array
 目的：輸入一組list跟一個數字(n)，取出最後一個數字放到最前面成為新的list，然後再重複執行n次，最後輸出改過的list
 用for i in range(要執行的次數)，然後用.pop()取出最後一個數，再用.insert()插入在最前面
-
+### 題目：1108 Defanging an IP Address
+目的：輸入一組字串(包含數字跟".")，要把 "." 換成 "[.]"，再輸出字串
+用replace()函式來替換
+list.replace("原本的字串","要換成的字串")
 
 
