@@ -12,6 +12,9 @@ str.title()          #把每個單字的第一個字母轉換為大写，其餘�
 ### 題目：1207 Unique Number of Occurrences
 目的：輸入一組整數數字，當每個數在list裡出現的次數是唯一的時候回傳True，不是唯一就回傳False<br>
 list.count(obj)    #計算obj在list裡的出現次數
+### 題目：189 Rotate Array
+目的：輸入一組list跟一個數字(n)，取出最後一個數字放到最前面成為新的list，然後再重複執行n次，最後輸出改過的list
+用for i in range(要執行的次數)，然後用.pop()取出最後一個數，再用.insert()插入在最前面
 
 
 
