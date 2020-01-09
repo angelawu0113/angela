@@ -10,7 +10,8 @@ str.title()          #把每個單字的第一個字母轉換為大写，其餘�
 目的：輸入2個array，輸出都有在2個 array裡面的值<br>
 用for迴圈跟if in 來判斷有沒有同樣的值<br>
 ### 題目：1207 Unique Number of Occurrences
-給定一個整數數組arr，當且僅當該數組中每個值的出現次數是唯一的時才返回true。
+目的：輸入一組整數數字，當每個數在list裡出現的次數是唯一的時候回傳True，不是唯一就回傳False<br>
+list.count(obj)    #計算obj在list裡的出現次數
 
 
 
