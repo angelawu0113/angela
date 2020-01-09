@@ -8,7 +8,9 @@ str.title()          #把每個單字的第一個字母轉換為大写，其餘�
 參考資料：https://www.runoob.com/python3/python3-upper-lower.html<br>
 ### 題目：349 Intersection of Two Arrays<br>
 目的：輸入2個array，輸出都有在2個 array裡面的值<br>
-用for迴圈跟if in 來判斷有沒有同樣的值
+用for迴圈跟if in 來判斷有沒有同樣的值<br>
+### 題目：1207 Unique Number of Occurrences
+給定一個整數數組arr，當且僅當該數組中每個值的出現次數是唯一的時才返回true。
 
 
 
